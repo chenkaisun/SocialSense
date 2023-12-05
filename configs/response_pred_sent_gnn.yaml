@@ -1,0 +1,14 @@
+"task_mode": "clf"
+"model_name": ours_clf
+"data_dir": "../twitter_crawl/data_new2/"
+"dataset": "CNN"
+"weighted_loss": 1
+"personal_response_pred": 1
+"use_gnn": 1
+"batch_size": 1
+"eval_batch_size": 1
+"anonym": 0
+"verbose_eval": 0
+#"metric_for_best_model": mif1
+#"metric_for_best_model": maf1
+#sent pred on perosnal data training with reducing intensity
